@@ -18,7 +18,7 @@ The notebook performs:
 
 ## Technologies Used
 - **Python** for analysis
-- Libraries: `numpy`, `pandas`, `matplotlib`, `seaborn`
+- **Libraries**: `numpy`, `pandas`, `matplotlib`, `seaborn`
 
 ## Visualizations
 The project includes:
